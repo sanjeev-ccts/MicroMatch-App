@@ -1,0 +1,9 @@
+{
+  "name": "Thali — Daily Nutrition Tracker",
+  "short_name": "Thali",
+  "start_url": "./health.html",
+  "display": "standalone",
+  "background_color": "#FAF6EE",
+  "theme_color": "#E3A008",
+  "icons": []
+}
