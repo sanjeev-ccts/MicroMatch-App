@@ -4,7 +4,7 @@
   "start_url": "./health.html",
   "display": "standalone",
   "background_color": "#062315",
-  "theme_color": "#062315",
+  "theme_color": "#0f172a",
   "icons": [
     {
       "src": "./my-icon.png",
