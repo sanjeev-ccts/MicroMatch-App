@@ -3,8 +3,8 @@
   "short_name": "MicroMatch",
   "start_url": "./health.html",
   "display": "standalone",
-  "background_color": "#FAF6EE",
-  "theme_color": "#E3A008",
+  "background_color": "#62315",
+  "theme_color": "#62315",
   "icons": [
     {
       "src": "./my-icon.png",
