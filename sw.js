@@ -1,4 +1,4 @@
-const CACHE = 'thali-v2.23';
+const CACHE = 'thali-v2.3';
 const ASSETS = ['./health.html', './manifest.json', './my-icon.png', './login-bg.png'];
 
 self.addEventListener('install', e => {
