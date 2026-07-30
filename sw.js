@@ -1,5 +1,5 @@
 const CACHE = 'thali-v2.43';
-const ASSETS = ['./health.html', './manifest.json', './my-icon.png', './login-bg.png'];
+const ASSETS = ['./health.html', './manifest.json', './my-icon.png', './logo.png'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)));
